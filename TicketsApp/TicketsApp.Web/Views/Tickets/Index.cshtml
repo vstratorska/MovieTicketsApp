@@ -1,0 +1,58 @@
+﻿@model List<TicketsApp.Domain.Domain.Ticket>
+
+
+
+
+
+@* saa za saa e opsto view so site ticketi a ponatap ke napravam da se samo ticketi za filmo od dek so birame *@
+
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<h1>Ticket</h1>
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Tickets" asp-action="Create">Add new ticket</a>
+
+    </div>
+
+    @for(int i=0;i<Model.Count; i++)
+    {
+        var item = Model[i];
+        if(i % 3 == 0)
+        {
+            @:<div class="row">
+        }
+        <div class="col-3 m-4">
+
+            <div class="card" style="width: 18rem; height: 35rem">
+                
+                <div class="card-body">
+                    <h5 class="card-title">@item.Movie.MovieName</h5>
+                    <h5 class="card-title">@item.Price</h5>
+                    <p class="card-text">@item.Date</p>
+                </div>
+                <div class="card-footer">
+                    <a asp-controller="Tickets" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a>
+                    <a asp-controller="Tickets" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    <a asp-controller="Tickets" asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Details</a>
+                    <a asp-controller="Tickets" asp-action="AddToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+                </div>
+
+            </div>
+        </div>
+
+        if(i % 3 == 2)
+        {
+            @:</div>
+        }
+    }
+</div>
+
+

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\bin\Debug\net8.0\TicketsApp.Domain.deps.json
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\bin\Debug\net8.0\TicketsApp.Domain.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\bin\Debug\net8.0\TicketsApp.Domain.pdb
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\refint\TicketsApp.Domain.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.pdb
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\ref\TicketsApp.Domain.dll
