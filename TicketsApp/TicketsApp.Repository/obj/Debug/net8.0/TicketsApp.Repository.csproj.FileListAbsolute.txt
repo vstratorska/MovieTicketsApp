@@ -13,3 +13,4 @@ C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Repository\obj\Debug\net8
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Repository\obj\Debug\net8.0\refint\TicketsApp.Repository.dll
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Repository\obj\Debug\net8.0\TicketsApp.Repository.pdb
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Repository\obj\Debug\net8.0\ref\TicketsApp.Repository.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Repository\obj\Debug\net8.0\TicketsApp.Repository.sourcelink.json

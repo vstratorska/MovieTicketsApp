@@ -1,0 +1,70 @@
+﻿@using TicketsAppAdmin.Models
+﻿@using Microsoft.Extensions.Options
+@model TicketsAppAdmin.Models.OrderDto
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Order Details</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    #
+                </th>
+                <th>
+                    Movie name
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Date
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Tickets.Count(); i++)
+            {
+                var item = Model.Tickets[i];
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ticket.Movie.MovieName)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ticket.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ticket.Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+        <th><b>Total:</b></th>
+
+        <th></th>
+        <th></th>
+        <th></th>
+
+        <th><b>@Model.TotalPrice</b></th>
+
+        </tfoot>
+    </table>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

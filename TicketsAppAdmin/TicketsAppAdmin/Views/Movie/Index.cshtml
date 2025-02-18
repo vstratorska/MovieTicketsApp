@@ -1,0 +1,47 @@
+﻿@model List<TicketsAppAdmin.Models.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Movie" asp-action="Create">Add new Movie</a>
+    </div>
+
+    @for(int i=0;i<Model.Count; i++)
+    {
+        var item = Model[i];
+        if(i % 3 == 0)
+        {
+            @:<div class="row">
+        }
+        <div class="col-3 m-4">
+
+            <div class="card" style="width: 18rem; height: 35rem">
+                <img class="card-img-top" src="@item.MovieImage" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.MovieName</h5>
+                    <p class="card-text">@item.MovieDescription</p>
+                    <h6>Rating: @item.Rating</h6>
+                </div>
+                <div class="card-footer">
+                    <a asp-controller="Movie" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a>
+                    <a asp-controller="Movie" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    <a asp-controller="Movie" asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Details</a>
+                </div>
+
+            </div>
+        </div>
+
+        if(i % 3 == 2)
+        {
+            @:</div>
+        }
+    }
+</div>
+
+

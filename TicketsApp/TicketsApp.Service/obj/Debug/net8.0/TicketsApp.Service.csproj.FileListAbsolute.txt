@@ -15,3 +15,4 @@ C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Service\obj\Debug\net8.0\
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Service\obj\Debug\net8.0\refint\TicketsApp.Service.dll
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Service\obj\Debug\net8.0\TicketsApp.Service.pdb
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Service\obj\Debug\net8.0\ref\TicketsApp.Service.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Service\obj\Debug\net8.0\TicketsApp.Service.sourcelink.json

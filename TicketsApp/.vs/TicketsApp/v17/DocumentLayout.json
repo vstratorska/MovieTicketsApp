@@ -3,56 +3,125 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{716F3BDA-8BC0-4885-8D58-784B23B8D469}|TicketsApp.Repository\\TicketsApp.Repository.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{716F3BDA-8BC0-4885-8D58-784B23B8D469}|TicketsApp.Repository\\TicketsApp.Repository.csproj|solutionrelative:ticketsapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.ShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.TicketsInShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|solutionrelative:ticketsapp.domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.TicketsInOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.domain\\domain\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|solutionrelative:ticketsapp.domain\\domain\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\shoppingcarts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\shoppingcarts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.Tickets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\shoppingcarts\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\shoppingcarts\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\implementation\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\implementation\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\interface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\interface\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\interface\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.service\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4B8956-D288-40CA-81EE-71A17BB93810}|TicketsApp.Service\\TicketsApp.Service.csproj|solutionrelative:ticketsapp.service\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F3BDA-8BC0-4885-8D58-784B23B8D469}|TicketsApp.Repository\\TicketsApp.Repository.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716F3BDA-8BC0-4885-8D58-784B23B8D469}|TicketsApp.Repository\\TicketsApp.Repository.csproj|solutionrelative:ticketsapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|solutionrelative:ticketsapp.domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65F6F0D-55D7-426F-8BAD-3ED4D829D221}|TicketsApp.Web\\TicketsApp.Web.csproj|solutionrelative:ticketsapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|c:\\users\\user\\desktop\\ticketsapp\\ticketsapp\\ticketsapp.domain\\domain\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D6D7E5-AD22-43F0-8359-BE82316A5D1D}|TicketsApp.Domain\\TicketsApp.Domain.csproj|solutionrelative:ticketsapp.domain\\domain\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +131,354 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "dbo.TicketsInOrders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.TicketsInOrders.sql",
+              "ToolTip": "dbo.TicketsInOrders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:46:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.TicketsInShoppingCarts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.TicketsInShoppingCarts.sql",
+              "ToolTip": "dbo.TicketsInShoppingCarts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:46:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.ShoppingCarts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.ShoppingCarts.sql",
+              "ToolTip": "dbo.ShoppingCarts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:46:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T13:55:47.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:46:25.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:46:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Movies [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.Movies.sql",
+              "ToolTip": "dbo.Movies [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:45:45.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Tickets [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TicketsAppDB/True/SqlTable/dbo.Tickets.sql",
+              "ToolTip": "dbo.Tickets [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-18T13:46:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuccessPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T13:40:58.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:11:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:17:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:08:14.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:21:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:18:05.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:12:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:13:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Controllers\\API\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T23:56:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\TicketService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Implementation\\TicketService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\TicketService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Implementation\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:53:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Interface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Interface\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:12:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IMovieService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Interface\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IMovieService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Interface\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:37:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\ITicketService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Interface\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\ITicketService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Interface\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:35:24.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Interface\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Interface\\IShoppingCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:36:46.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Implementation\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Implementation\\ShoppingCartService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:53:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TicketsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T13:33:06.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:32:01.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:12:31.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\MovieService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Implementation\\MovieService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\MovieService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Implementation\\MovieService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T23:54:59.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Service\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "TicketsApp.Service\\Implementation\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:14:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Domain\\Dto\\OrderDto.cs",
               "RelativeDocumentMoniker": "TicketsApp.Domain\\Dto\\OrderDto.cs",
@@ -79,7 +491,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 28,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "TicketsApp.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAApwE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:23:35.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TicketsApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Program.cs",
+              "RelativeToolTip": "TicketsApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:16:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "TicketInOrder.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Domain\\Domain\\TicketInOrder.cs",
               "RelativeDocumentMoniker": "TicketsApp.Domain\\Domain\\TicketInOrder.cs",
@@ -88,149 +526,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T22:27:33.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\Details.cshtml",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\ShoppingCarts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\Details.cshtml",
-              "RelativeToolTip": "TicketsApp.Web\\Views\\ShoppingCarts\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T22:25:55.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Repository\\Implementation\\Repository.cs",
-              "RelativeDocumentMoniker": "TicketsApp.Repository\\Implementation\\Repository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Repository\\Implementation\\Repository.cs",
-              "RelativeToolTip": "TicketsApp.Repository\\Implementation\\Repository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwE0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:23:35.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Details.cshtml",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Orders\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Details.cshtml",
-              "RelativeToolTip": "TicketsApp.Web\\Views\\Orders\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T22:17:55.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Index.cshtml",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Orders\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Orders\\Index.cshtml",
-              "RelativeToolTip": "TicketsApp.Web\\Views\\Orders\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T22:11:35.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "TicketsApp.Web\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:12:31.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IOrderService.cs",
-              "RelativeDocumentMoniker": "TicketsApp.Service\\Interface\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Interface\\IOrderService.cs",
-              "RelativeToolTip": "TicketsApp.Service\\Interface\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:12:37.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
-              "RelativeToolTip": "TicketsApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAFcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T22:18:05.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "TicketsApp.Web\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T22:21:40.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\OrderService.cs",
-              "RelativeDocumentMoniker": "TicketsApp.Service\\Implementation\\OrderService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Service\\Implementation\\OrderService.cs",
-              "RelativeToolTip": "TicketsApp.Service\\Implementation\\OrderService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:14:39.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShoppingCartsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
-              "RelativeToolTip": "TicketsApp.Web\\Controllers\\ShoppingCartsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:13:06.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "TicketsApp.Web\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "TicketsApp.Web\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:12:51.804Z",
               "EditorCaption": ""
             }
           ]

@@ -160,3 +160,8 @@ C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\obj\Debug\net8.0\refi
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\obj\Debug\net8.0\TicketsApp.Web.pdb
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\obj\Debug\net8.0\TicketsApp.Web.genruntimeconfig.cache
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\obj\Debug\net8.0\ref\TicketsApp.Web.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Web\obj\Debug\net8.0\TicketsApp.Web.sourcelink.json

@@ -47,5 +47,10 @@ namespace TicketsApp.Service.Implementation
             };
             return dto;
         }
+
+        public List<Order> GetAllOrders()
+        {
+            return _orderRepository.GetAll().ToList();
+        }
     }
 }
