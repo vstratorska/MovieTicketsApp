@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/TicketsApp.Web/css/site.2nl67qiyn4.css">
+    <StaticWebAssetEndpoint Include="_content/TicketsApp.Web/css/site.4uh4ot6lv4.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2nl67qiyn4"},{"Name":"integrity","Value":"sha256-DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8="},{"Name":"label","Value":"_content/TicketsApp.Web/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2632"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 12:55:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4uh4ot6lv4"},{"Name":"integrity","Value":"sha256-TH\u002BjZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k="},{"Name":"label","Value":"_content/TicketsApp.Web/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2704"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TH\u002BjZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 17:16:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TicketsApp.Web/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2632"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 12:55:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TH\u002BjZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2704"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TH\u002BjZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 17:16:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TicketsApp.Web/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

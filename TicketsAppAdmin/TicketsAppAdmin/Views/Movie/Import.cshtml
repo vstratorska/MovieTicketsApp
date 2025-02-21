@@ -4,10 +4,10 @@
 @{
 }
 
-<h1>Index</h1>
+<h2 class="text-light mt-5">Import Movies from Excel</h2>
 <form asp-controller="Movie" asp-action="ImportMovies" method="post" enctype="multipart/form-data">
     <div class="form-group">
         <input type="file" name="file" class="form-control" />
     </div>
-    <button type="submit" class="btn btn-success">Import Excel</button>
+    <button type="submit" class="btn btn-danger mt-4">Import Excel</button>
 </form>

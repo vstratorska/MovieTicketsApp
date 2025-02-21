@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y2taXSkte15n3BFYfert2PMubizM0w+GB9/asLfdAvA=",
+  "Hash": "C2/bMAjM9aVSajJiZ/DEn1aQjUHFyVJNDaBWRzw8XCQ=",
   "Source": "TicketsAppAdmin",
   "BasePath": "_content/TicketsAppAdmin",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "7t0u9q4bmv",
+      "Integrity": "m7B77oBUrGdedSKdDvG5gKhtBnM4k3kzM5KP9Mdqwg0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,7 +1321,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.7t0u9q4bmv.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsAppAdmin\\TicketsAppAdmin\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "1719"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"m7B77oBUrGdedSKdDvG5gKhtBnM4k3kzM5KP9Mdqwg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:15:09 GMT"
+          "Value": "Fri, 21 Feb 2025 18:27:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,7 +1353,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "7t0u9q4bmv"
         },
         {
           "Name": "label",
@@ -1361,7 +1361,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-m7B77oBUrGdedSKdDvG5gKhtBnM4k3kzM5KP9Mdqwg0="
         }
       ]
     },
@@ -1376,7 +1376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "1719"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"m7B77oBUrGdedSKdDvG5gKhtBnM4k3kzM5KP9Mdqwg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 10:15:09 GMT"
+          "Value": "Fri, 21 Feb 2025 18:27:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1398,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-m7B77oBUrGdedSKdDvG5gKhtBnM4k3kzM5KP9Mdqwg0="
         }
       ]
     },
@@ -6263,7 +6263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 11:15:10 GMT"
+          "Value": "Fri, 21 Feb 2025 18:13:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6308,7 +6308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 11:15:10 GMT"
+          "Value": "Fri, 21 Feb 2025 18:13:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6353,7 +6353,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 11:15:10 GMT"
+          "Value": "Fri, 21 Feb 2025 18:13:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6390,7 +6390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 11:15:10 GMT"
+          "Value": "Fri, 21 Feb 2025 18:13:22 GMT"
         },
         {
           "Name": "Cache-Control",

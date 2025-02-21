@@ -5,18 +5,16 @@
 }
 @model List<TicketsAppAdmin.Models.Order>
 
-
-<div class="container">
-    <h1>Orders</h1>
-     <div class="row"> 
-         <a asp-controller="Order" asp-action="ExportAllOrders" class="btn btn-primary">Export Orders Excel</a> 
-     </div>
-    <div class="row">
-        <a asp-controller="Order" asp-action="ExportAllOrdersPDF" class="btn btn-info mt-3">Export Orders Pdf</a>
+<h1 class="text-light text-center mt-5">Orders</h1>
+<div class="container mt-5">
+<div class="row"> 
+    <a asp-controller="Order" asp-action="ExportAllOrders" class="btn btn-danger">Export Orders Excel</a> 
+    <a asp-controller="Order" asp-action="ExportAllOrdersPDF" class="btn btn-secondary mt-3">Export Orders Pdf</a>
     </div>
+</div>
 
-    <div class="row m-5">
-        <table class="table">
+<div class="container text-center">
+        <table class="table table-borderless mt-5 custom-table">
             <thead>
                 <tr>
                     <th>
@@ -29,9 +27,7 @@
                         Number of products
                     </th>
                     <th>Total</th>
-                    <th></th>
-                    <th></th>
-                    
+                    <th></th>                   
                 </tr>
             </thead>
             <tbody>
@@ -51,15 +47,12 @@
                             @(item.TicketsInOrder != null ? item.TicketsInOrder.Sum(t => t.Quantity * t.Ticket.Price) : 0)
                         </td>
                         <td>  
-                             <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">View Order</a> 
-                         </td>
-                        <td>
-                            <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-info">create invoice</a>
+                             <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-danger">View Order</a> 
+                            <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-warning">Create Invoice</a>
                         </td>
                     </tr>
                 }
             </tbody>
 
         </table>
-    </div>
 </div>

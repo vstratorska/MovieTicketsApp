@@ -4,13 +4,11 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Create</h1>
+<h1 class="text-light text-center custom-title">Add new Ticket</h1>
 
-<h4>Ticket</h4>
-<hr />
-<div class="row">
+<div class="container d-flex justify-content-center mt-4">
     <div class="col-md-4">
-        <form asp-action="CreateTicket">
+        <form asp-action="CreateTicket" class="text-light">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="MovieId" class="control-label"></label>
@@ -27,15 +25,12 @@
                 <span asp-validation-for="Date" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Add Ticket" class="btn btn-danger mt-4 w-100"/>
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

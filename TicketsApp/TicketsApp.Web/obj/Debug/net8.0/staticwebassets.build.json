@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8dcWHmOVZFjj9mi0TDUtQNmw7QBx37s3lnHJG0YAAc0=",
+  "Hash": "H9Ua6tMJSym05Hwsing+MMbx8lgeTj9gc+6MiM1YBR8=",
   "Source": "TicketsApp.Web",
   "BasePath": "_content/TicketsApp.Web",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2nl67qiyn4",
-      "Integrity": "DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8=",
+      "Fingerprint": "4uh4ot6lv4",
+      "Integrity": "TH+jZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2581,7 +2581,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.2nl67qiyn4.css",
+      "Route": "css/site.4uh4ot6lv4.css",
       "AssetFile": "C:\\Users\\User\\Desktop\\TicketsApp\\TicketsApp\\TicketsApp.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2591,7 +2591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2632"
+          "Value": "2704"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2599,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8=\""
+          "Value": "\"TH+jZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 12:55:00 GMT"
+          "Value": "Fri, 21 Feb 2025 17:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2613,7 +2613,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2nl67qiyn4"
+          "Value": "4uh4ot6lv4"
         },
         {
           "Name": "label",
@@ -2621,7 +2621,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8="
+          "Value": "sha256-TH+jZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k="
         }
       ]
     },
@@ -2636,7 +2636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2632"
+          "Value": "2704"
         },
         {
           "Name": "Content-Type",
@@ -2644,11 +2644,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8=\""
+          "Value": "\"TH+jZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 12:55:00 GMT"
+          "Value": "Fri, 21 Feb 2025 17:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,7 +2658,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DmKnCLWGgnESn2koxqUHAfqaNYXnjg6eNGkorDoIYZ8="
+          "Value": "sha256-TH+jZ09Qw8N7P6if1ymtWNWkHAD2DYR8sjnRQTnv77k="
         }
       ]
     },
