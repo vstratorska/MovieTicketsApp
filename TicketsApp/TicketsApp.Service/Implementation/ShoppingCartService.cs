@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
+using TicketsApp.Domain;
 using TicketsApp.Domain.Domain;
 using TicketsApp.Domain.Dto;
 using TicketsApp.Repository.Interface;
@@ -18,8 +19,6 @@ namespace TicketsApp.Service.Implementation
         private readonly IUserRepository _userRepository;
         private readonly IRepository<Order> _orderRepository;
         private readonly IRepository<TicketInOrder> _ticketInOrderRepository;
-        //private readonly IEmailService _emailService;
-
 
         public ShoppingCartService(IRepository<TicketInOrder> ticketInOrderRepository, IRepository<Order> orderRepository, IUserRepository userRepository, IRepository<ShoppingCart> shoppingCartRepository, IRepository<TicketInShoppingCart> ticketInShoppingCartRepository)
         {
@@ -28,7 +27,6 @@ namespace TicketsApp.Service.Implementation
             _userRepository = userRepository;
             _shoppingCartRepository = shoppingCartRepository;
             _ticketInShoppingCartRepository = ticketInShoppingCartRepository;
-            //_emailService = emailService;
         }
         public bool AddToShoppingConfirmed(TicketInShoppingCart model, string userId)
         {
@@ -87,9 +85,6 @@ namespace TicketsApp.Service.Implementation
                 var loggedInUser = _userRepository.Get(userId);
 
                 var userShoppingCart = loggedInUser.ShoppingCart;
-                //EmailMessage message = new EmailMessage();
-                //message.Subject = "Successfull order";
-                //message.MailTo = loggedInUser.Email;
 
                 Order order = new Order
                 {
@@ -115,21 +110,6 @@ namespace TicketsApp.Service.Implementation
                     }
                     ).ToList();
 
-
-                //StringBuilder sb = new StringBuilder();
-                //var totalPrice = 0.0;
-                //sb.AppendLine("Your order is completed. The order conatins: ");
-                //for (int i = 1; i <= list.Count(); i++)
-                //{
-                //    var currentItem = list[i - 1];
-                //    totalPrice += currentItem.Quantity * currentItem.Ticket.Price;
-                //    sb.AppendLine(i.ToString() + ". " + currentItem.Ticket.Movie.MovieName + " with quantity of: " + currentItem.Quantity + " and price of: $" + currentItem.Ticket.Price);
-                //}
-                //sb.AppendLine("Total price for your order: " + totalPrice.ToString());
-                //message.Content = sb.ToString();
-
-                               
-
                 foreach (var ticket in ticketsInOrder)
                 {
                     _ticketInOrderRepository.Insert(ticket);
@@ -139,8 +119,6 @@ namespace TicketsApp.Service.Implementation
 
                 loggedInUser.ShoppingCart.TicketsInShoppingCarts.Clear();
                 _userRepository.Update(loggedInUser);
-                //this._emailService.SendEmailAsync(message);
-
                 return true;
             }
             return false;

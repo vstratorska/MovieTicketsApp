@@ -52,5 +52,10 @@ namespace TicketsApp.Service.Implementation
         {
             return _orderRepository.GetAll().ToList();
         }
+
+        public Order GetOrder(Guid? orderId)
+        {
+            return _orderRepository.Get(orderId);
+        }
     }
 }

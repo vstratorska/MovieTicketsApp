@@ -5,11 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using TicketsApp.Domain;
 using TicketsApp.Domain.Domain;
+using TicketsApp.Domain.Identity;
 
 namespace TicketsApp.Repository
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<TicketsAppUser>
     {
         public virtual DbSet<Ticket> Tickets { get; set; }
         public virtual DbSet<Movie> Movies { get; set; }

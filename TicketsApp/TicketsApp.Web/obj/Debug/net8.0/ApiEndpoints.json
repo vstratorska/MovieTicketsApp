@@ -225,6 +225,32 @@
   },
   {
     "ContainingType": "TicketsApp.Web.Controllers.API.AdminController",
+    "Method": "GetOrder",
+    "RelativePath": "api/Admin/GetOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "TicketsApp.Domain.Domain.BaseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TicketsApp.Domain.Domain.Order",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TicketsApp.Web.Controllers.API.AdminController",
     "Method": "GetTicket",
     "RelativePath": "api/Admin/GetTicket",
     "HttpMethod": "POST",
@@ -240,6 +266,32 @@
     "ReturnTypes": [
       {
         "Type": "TicketsApp.Domain.Domain.Ticket",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TicketsApp.Web.Controllers.API.AdminController",
+    "Method": "ImportAllMovies",
+    "RelativePath": "api/Admin/ImportAllMovies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movies",
+        "Type": "System.Collections.Generic.List\u00601[[TicketsApp.Domain.Domain.Movie, TicketsApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
         "MediaTypes": [
           "text/plain",
           "application/json",

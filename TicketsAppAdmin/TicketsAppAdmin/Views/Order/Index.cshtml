@@ -8,9 +8,12 @@
 
 <div class="container">
     <h1>Orders</h1>
-    @* <div class="row"> *@
-    @*     <a asp-controller="Order" asp-action="ExportAllOrders" class="btn btn-info">Export Orders</a> *@
-    @* </div> *@
+     <div class="row"> 
+         <a asp-controller="Order" asp-action="ExportAllOrders" class="btn btn-primary">Export Orders Excel</a> 
+     </div>
+    <div class="row">
+        <a asp-controller="Order" asp-action="ExportAllOrdersPDF" class="btn btn-info mt-3">Export Orders Pdf</a>
+    </div>
 
     <div class="row m-5">
         <table class="table">
@@ -26,6 +29,7 @@
                         Number of products
                     </th>
                     <th>Total</th>
+                    <th></th>
                     <th></th>
                     
                 </tr>
@@ -49,10 +53,9 @@
                         <td>  
                              <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">View Order</a> 
                          </td>
-                        @* <td> *@
-                        @*     | *@
-                        @*     <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-info">Create Invoice</a> *@
-                        @* </td> *@
+                        <td>
+                            <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-info">create invoice</a>
+                        </td>
                     </tr>
                 }
             </tbody>

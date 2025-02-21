@@ -29,16 +29,23 @@ namespace TicketsApp.Web.Controllers.API
             return this._orderService.GetAllOrders();
         }
 
-        [HttpGet("[action]")]
-        public List<Movie> GetAllMovies()
-        {
-            return this._movieService.GetAllMovies();
-        }
 
         [HttpPost("[action]")]
         public OrderDto GetDetails(BaseEntity id)
         {
             return this._orderService.GetOrderInfo(id.Id);
+        }
+
+        [HttpPost("[action]")]
+        public Order GetOrder(BaseEntity id)
+        {
+            return this._orderService.GetOrder(id.Id);
+        }
+
+        [HttpGet("[action]")]
+        public List<Movie> GetAllMovies()
+        {
+            return this._movieService.GetAllMovies();
         }
 
         [HttpPost("[action]")]
@@ -110,6 +117,30 @@ namespace TicketsApp.Web.Controllers.API
             {
                 _ticketService.DeleteTicket(id.Id);
             }
+        }
+
+        [HttpPost("[action]")]
+        public bool ImportAllMovies(List<Movie> movies)
+        {
+            bool status = true;
+
+            foreach (var item in movies)
+            {
+
+                var movie = new Movie
+                {
+                    MovieName = item.MovieName,
+                    Genres = item.Genres,
+                    MovieDescription = item.MovieDescription,
+                    MovieImage = item.MovieImage,
+                    Rating = item.Rating,
+
+                };
+                _movieService.CreateNewMovie(movie);
+
+
+            }
+            return status;
         }
     }
 }

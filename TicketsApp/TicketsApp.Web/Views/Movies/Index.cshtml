@@ -5,35 +5,32 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
-
 <div class="container">
     
 
     @for(int i=0;i<Model.Count; i++)
     {
         var item = Model[i];
-        if(i % 3 == 0)
+        if(i % 4 == 0)
         {
             @:<div class="row">
         }
-        <div class="col-3 m-4">
-
-            <div class="card" style="width: 18rem; height: 35rem">
+        <div class="col-md-3 mt-5">
+           <a asp-controller="Movies" asp-action="Details" asp-route-id="@item.Id" class="text-black text-center">
+            <div class="card rounded-0 border-0" style="width: 17rem; height: 34rem">
+                <div class="card-img-container">
                 <img class="card-img-top" src="@item.MovieImage" alt="Card image cap">
+                </div>
                 <div class="card-body">
-                    <h5 class="card-title">@item.MovieName</h5>
-                    <p class="card-text">@item.MovieDescription</p>
+                    <h5 class="card-title fw-bold">@item.MovieName</h5>
+                    <h6>@item.Genres</h6>
                     <h6>Rating: @item.Rating</h6>
-                </div>
-                <div class="card-footer">
-                    <a asp-controller="Movies" asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Details</a>
-                </div>
-
+                </div>              
             </div>
+            </a>
         </div>
 
-        if(i % 3 == 2)
+        if(i % 4 == 3)
         {
             @:</div>
         }

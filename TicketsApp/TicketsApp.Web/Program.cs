@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using TicketsApp.Domain;
 using TicketsApp.Domain.Identity;
 using TicketsApp.Repository;
 using TicketsApp.Repository.Implementation;
@@ -27,6 +28,7 @@ builder.Services.AddTransient<ITicketService, TicketService>();
 builder.Services.AddTransient<IMovieService, MovieService>();
 builder.Services.AddTransient<IShoppingCartService, ShoppingCartService>();
 builder.Services.AddTransient<IOrderService, OrderService>();
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 builder.Services.AddControllersWithViews().AddNewtonsoftJson(options =>
     options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 

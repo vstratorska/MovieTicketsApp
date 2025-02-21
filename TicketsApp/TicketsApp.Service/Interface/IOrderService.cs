@@ -13,5 +13,7 @@ namespace TicketsApp.Service.Interface
         List<Order> GetOrders(string userId);
         OrderDto GetOrderInfo(Guid? orderId);
         List<Order> GetAllOrders();
+
+        Order GetOrder(Guid? orderId);
     }
 }

@@ -6,27 +6,24 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Details</h1>
+<h1 class="text-light text-center mt-5">Order Details</h1>
 
-<div>
-    <h4>Order Details</h4>
-    <table class="table">
+
+    <div class="container text-center">
+    <table class="table table-borderless mt-5 custom-table">
         <thead>
             <tr>
                 <th>
-                    #
-                </th>
-                <th>
-                    Movie name
-                </th>
-                <th>
-                    Price
+                    Movie 
                 </th>
                 <th>
                     Date
                 </th>
                 <th>
-                    Quantity
+                    Price per Ticket
+                </th>
+                <th>
+                    Number of Tickets
                 </th>
                 <th></th>
             </tr>
@@ -36,24 +33,24 @@
             {
                 var item = Model.Tickets[i];
                 <tr>
-                    <td>@(i + 1)</td>
                     <td>
                         @Html.DisplayFor(modelItem => item.Ticket.Movie.MovieName)
                     </td>
 
                     <td>
-                        @Html.DisplayFor(modelItem => item.Ticket.Price)
+                        @Html.DisplayFor(modelItem => item.Ticket.Date)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.Ticket.Date)
+                        @Html.DisplayFor(modelItem => item.Ticket.Price)
                     </td>
                     <td>
                         @Html.DisplayFor(modelItem => item.Quantity)
                     </td>
+                    <td></td>
                 </tr>
             }
         </tbody>
-        <tfoot>
+        <tfoot class="table-danger">
         <th><b>Total:</b></th>
 
         <th></th>
@@ -64,7 +61,4 @@
 
         </tfoot>
     </table>
-</div>
-<div>
-    <a asp-action="Index">Back to List</a>
 </div>

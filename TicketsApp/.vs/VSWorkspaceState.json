@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TicketsApp.Web",
+    "\\TicketsApp.Web\\Views",
+    "\\TicketsApp.Web\\Views\\Tickets"
   ],
   "SelectedNode": "\\TicketsApp.sln",
   "PreviewInSolutionExplorer": false

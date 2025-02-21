@@ -10,3 +10,4 @@ C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\T
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\refint\TicketsApp.Domain.dll
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.pdb
 C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\ref\TicketsApp.Domain.dll
+C:\Users\User\Desktop\TicketsApp\TicketsApp\TicketsApp.Domain\obj\Debug\net8.0\TicketsApp.Domain.sourcelink.json

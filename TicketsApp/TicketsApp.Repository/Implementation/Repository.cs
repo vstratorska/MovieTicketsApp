@@ -42,6 +42,7 @@ namespace TicketsApp.Repository.Implementation
                     .Include("Owner")
                     .Include("TicketsInOrder")
                     .Include("TicketsInOrder.Ticket")
+                    .Include("TicketsInOrder.Ticket.Movie")
                     .AsEnumerable();
             }
             else
