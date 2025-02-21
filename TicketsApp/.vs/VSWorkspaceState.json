@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\TicketsApp.Repository",
     "\\TicketsApp.Web",
     "\\TicketsApp.Web\\Views",
     "\\TicketsApp.Web\\Views\\Tickets"
